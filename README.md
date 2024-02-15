@@ -10,13 +10,32 @@
 **Welcome to the CIPAR LAB**.
 
 This is the official repository of the CIPAR LAB. Here you can find the code and the data of the experiments conducted in the lab. 
+Link to our website: [website](https://sites.google.com/uniroma1.it/cipar-labs/home)
 
-![test_logo](/Photos/logo_2.png)
+![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e)
+
 
 
 # Notice
-"""
-"""
+## How to share your projects in the repo:
+```
+repo ------> |- code folder
+                    |- main file
+                    |- utils folder
+                    |- class folder
+
+             |- results
+                    |- graphs
+                    |- ipynb file to well represent results
+
+             |- README.md
+                    |- The aim of the project
+                    |- Folder representation
+                    |- dependencies libraries and files & how to install them
+                       (Docker file, Virtual env)
+                    |- Share a table of final result and graph 
+        
+```           
 
 
 
