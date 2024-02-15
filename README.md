@@ -6,6 +6,10 @@
 This is the official repository of the CIPAR LAB. Here you can find the code and the data of the experiments conducted in the lab. 
 Link to our website: [website](https://sites.google.com/uniroma1.it/cipar-labs/home)
 
+ - we are working on Renewable energy, Battery Management System, and Energy forecasting.
+ - Computer Vision
+
+   
 ![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e)
 
 
