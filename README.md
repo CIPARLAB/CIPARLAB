@@ -22,6 +22,8 @@ repo ------> |- code folder
                     |- graphs
                     |- ipynb file to well represent results
 
+             |- dependencies file or folder
+
              |- README.md
                     |- The aim of the project
                     |- Folder representation
