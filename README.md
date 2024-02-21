@@ -10,9 +10,9 @@ Link to our website: [website](https://sites.google.com/uniroma1.it/cipar-labs/h
  - Computer Vision
 
    
-![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e)
 
 
+![logo3](https://lh3.googleusercontent.com/SCEO2dovt-fS0yNr107tM9nu6F_ULZnQuc8Ja18W3YF8TVegUs30xLsYRaowUzapkdWuG3Axjakn14WEic0-J2JikiYLHBn-4haC35SoAt1jCgbXjHHpq14uV3ohFGxMeg=w1280)
 
 # Notice
 ## How to share your projects in the repo:
