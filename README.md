@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @CIPARLAB
 
-# CIPAR LAB
-**Welcome to the CIPAR LAB**.
+# CIPARLABS
+**Welcome to the CIPARLABS**.
 
-This is the official repository of the CIPARLABS at the Sapienza University of Rome, Department of Information Engineering, Electronics and Telecommunications (DIET). Here you can find the code and the data of the experiments conducted in the lab. 
+This is the official repository of the CIPARLABS at the Sapienza University of Rome, Department of Information Engineering, Electronics and Telecommunications (DIET). Here, you can find the code and data of the lab experiments. 
+
 Link to our website: [website](https://sites.google.com/uniroma1.it/cipar-labs/home)
+
 We are working on:
  - application of Artificial Intelligence, Computational Intelligence and Pattern Recognition to various fields
  - Neural Networks and evolutionary optimization
