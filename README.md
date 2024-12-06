@@ -16,8 +16,9 @@ We are working on:
 
  [comment]: ![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e
 
-![logo_2](images/Logo_pagina_linkedn.jpg)
-
+<p align="center">
+  <img src="images/Logo_pagina_linkedn.jpg" width="450" height="450">
+</p>
 
 
 # Notice
