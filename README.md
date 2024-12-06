@@ -19,7 +19,7 @@ Go to the companion [CIPAR-Labs-NLP Github](https://github.com/CIPAR-Labs-NLP)
  [comment]: ![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e
 
 <p align="center">
-  <img src="images/Logo_pagina_linkedn.jpg" width="450" height="450">
+  <img src="images/Logo_pagina_linkedn.jpg" style="width: 80%; max-width: 100%; height: auto;">
 </p>
 
 
