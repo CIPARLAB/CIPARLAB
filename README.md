@@ -5,7 +5,7 @@
 
 This is the official repository of the CIPARLABS at the Sapienza University of Rome, Department of Information Engineering, Electronics and Telecommunications (DIET). Here, you can find the code and data of the lab experiments. 
 
-Link to our website: [website](https://sites.google.com/uniroma1.it/cipar-labs/home)
+Link to our website: [CIPARLABS website](https://sites.google.com/uniroma1.it/cipar-labs/home)
 
 We are working on:
  - application of Artificial Intelligence, Computational Intelligence and Pattern Recognition to various fields
@@ -13,6 +13,8 @@ We are working on:
  - Smart Grids and microgrids, Renewable Energy Communities, Renewable energy, Energy and Battery Management Systems and Energy forecasting
  - Natural Language Processing, Large Language Models and Transformer architectures, ExplainableAI
  - Computer Vision
+
+Go to the campanion [CIPAR-Labs-NLP Github](https://github.com/CIPAR-Labs-NLP)
 
  [comment]: ![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e
 
