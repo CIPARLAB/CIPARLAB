@@ -14,7 +14,7 @@ We are working on:
  - Natural Language Processing, Large Language Models and Transformer architectures, ExplainableAI
  - Computer Vision
 
-Go to the campanion [CIPAR-Labs-NLP Github](https://github.com/CIPAR-Labs-NLP)
+Go to the companion [CIPAR-Labs-NLP Github](https://github.com/CIPAR-Labs-NLP)
 
  [comment]: ![logo_2](https://github.com/CIPARLAB/CIPARLAB/assets/158594752/3fccdc29-bd9f-486a-91f9-cb258f3b041e
 
